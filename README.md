@@ -5,3 +5,5 @@ A simple todo app made using the following tools:
   <li>CSS</li>
   <li>JQuery</li>
 </ul>
+
+Demo can be found here: https://justgo13.github.io/Todo/
